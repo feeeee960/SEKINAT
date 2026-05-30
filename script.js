@@ -92,21 +92,21 @@ const projects = [
     {
         title: 'E-Commerce Platform',
         description: 'A modern online shopping experience with seamless checkout and product management.',
-        image: 'assets/images/svg3.png', // ← replace .svg with your real image
+        image: 'svg3.png', // ← replace .svg with your real image
         tags: ['HTML', 'CSS', 'JavaScript'],
         link: 'http://127.0.0.1:5500/'  // ← replace '#' with the live URL of your project
     },
     {
         title: 'Portfolio Website',
         description: 'A sleek and responsive portfolio showcasing creative work and design projects.',
-        image: 'assets/images/svg1.png', // ← replace with your image
+        image: 'svg1.png', // ← replace with your image
         tags: ['HTML', 'CSS', 'JavaScript'],
         link: '#'
     },
     {
         title: 'Mobile App Interface',
         description: 'An intuitive mobile-first design with smooth animations and user-friendly navigation.',
-        image: 'assets/images/svg4.png',    // ← replace with your image
+        image: 'svg4.png',    // ← replace with your image
         tags: ['HTML', 'CSS', 'JavaScript'],
         link: '#'
     },
@@ -115,7 +115,7 @@ const projects = [
         
         title: 'My New Project',
         description: 'This is a simple website to showcase my basic HTML, CSS and JS skills',
-        image: 'assets/images/svg2.png', 
+        image: 'svg2.png', 
         tags: ['HTML', 'CSS', 'JavaScript'],
         link: 'http://127.0.0.1:5500/'
 
