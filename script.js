@@ -151,7 +151,7 @@ function createProjectCard(project) {
         loading="lazy"
       />
       <a href="${project.link}" class="project-link-icon" aria-label="View ${project.title} project">
-        <img src="assets/icons/icon-external-link.svg" alt="" width="20" height="20" aria-hidden="true" />
+        <img src="externallink.svg" alt="" width="20" height="20" aria-hidden="true" />
       </a>
     </div>
     <div class="project-info">
